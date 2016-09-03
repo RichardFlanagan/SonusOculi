@@ -13,7 +13,9 @@ Sonus Oculi includes:
 - A high score table which saves between plays.
 - A new and refreshing game experience.
 
-To play the game, run *MAINSonusOculi.py*.
+##Instructions
+To play the game, run *MAINSonusOculi.py*. 
+
 Setting debug to true (can be done in options) displays interception points and gives infinite health/ammo.
 
 - **w, a, s, d** - Move
